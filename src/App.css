@@ -1,0 +1,13 @@
+/* Project specific animations & helpers */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(99, 102, 241, 0.35);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(99, 102, 241, 0.65);
+  }
+}
+
+.glow-indigo {
+  animation: pulseGlow 2.5s infinite ease-in-out;
+}

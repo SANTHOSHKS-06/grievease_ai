@@ -1,0 +1,407 @@
+[
+  {
+    "id": "GRV-2026-101",
+    "title": "Severe water leakage and ceiling dampness in Block B 3rd Floor",
+    "description": "Room 312 to 316 in Boys Hostel Block B have persistent water seepage from the terrace during rains. Plaster is peeling off and poses an electrical hazard near the power sockets.",
+    "category": "Hostel",
+    "status": "In Review",
+    "priority": "Critical",
+    "sentiment": "Negative",
+    "sentimentScore": 0.18,
+    "date": "2026-10-22",
+    "isAnonymous": false,
+    "submittedBy": "Aarav Sharma",
+    "department": "Mechanical Engg - 3rd Year",
+    "location": "Boys Hostel Block B, Floor 3",
+    "assignedDept": "Hostel Estate & Civil Maintenance",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-22 09:15 AM", "note": "Grievance registered. AI flagged critical electrical risk." },
+      { "status": "In Review", "date": "2026-10-23 11:30 AM", "note": "Estate maintenance supervisor inspected site. Waterproofing requisition raised." }
+    ]
+  },
+  {
+    "id": "GRV-2026-102",
+    "title": "Undercooked rice and substandard hygiene in North Campus Mess",
+    "description": "The lunch served on Tuesday had partially raw rice and unwashed spinach in dal. Multiple students experienced stomach distress. Water dispenser filters also appear overdue for replacement.",
+    "category": "Mess",
+    "status": "In Review",
+    "priority": "High",
+    "sentiment": "Negative",
+    "sentimentScore": 0.22,
+    "date": "2026-10-21",
+    "isAnonymous": true,
+    "submittedBy": "Anonymous Student",
+    "department": "Biotechnology",
+    "location": "North Campus Dining Hall 2",
+    "assignedDept": "Student Welfare & Mess Committee",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-21 02:40 PM", "note": "Submitted via student portal. Categorized under Food Safety." },
+      { "status": "In Review", "date": "2026-10-22 10:00 AM", "note": "Notice issued to catering contractor. Water sample sent for lab test." }
+    ]
+  },
+  {
+    "id": "GRV-2026-103",
+    "title": "Semester 5 Data Structures re-evaluation marks missing on ERP",
+    "description": "Over 25 students applied for re-evaluation for CS-301 before the September 15 deadline. The ERP portal still shows old grades, impacting internship eligibility verification.",
+    "category": "Academics",
+    "status": "Resolved",
+    "priority": "High",
+    "sentiment": "Neutral",
+    "sentimentScore": 0.45,
+    "date": "2026-10-14",
+    "isAnonymous": false,
+    "submittedBy": "Rhea Sen",
+    "department": "Computer Science - 5th Sem",
+    "location": "Academic Examination Cell",
+    "assignedDept": "Controller of Examinations",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-14 11:20 AM", "note": "Grievance received and routed to COE office." },
+      { "status": "In Review", "date": "2026-10-15 03:00 PM", "note": "Discrepancy identified in database sync batch." },
+      { "status": "Resolved", "date": "2026-10-18 04:30 PM", "note": "Updated grade sheets uploaded to ERP portal and verified by students." }
+    ]
+  },
+  {
+    "id": "GRV-2026-104",
+    "title": "Campus Shuttle Route #4 skipped 8:15 AM schedule repeatedly",
+    "description": "Bus #4 from Metro Station to South Gate has failed to arrive at 8:15 AM for three consecutive days, leading to students receiving late attendance penalties for 9 AM lab sessions.",
+    "category": "Transport",
+    "status": "Resolved",
+    "priority": "Medium",
+    "sentiment": "Negative",
+    "sentimentScore": 0.31,
+    "date": "2026-10-12",
+    "isAnonymous": false,
+    "submittedBy": "Vikram Adithya",
+    "department": "Electronics Engg",
+    "location": "City Metro to South Campus Gate",
+    "assignedDept": "Campus Transport Office",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-12 09:05 AM", "note": "Transport grievance filed with bus log reference." },
+      { "status": "In Review", "date": "2026-10-13 10:15 AM", "note": "Route schedule audited; driver reassigned and backup coach scheduled." },
+      { "status": "Resolved", "date": "2026-10-15 08:30 AM", "note": "GPS tracking enabled on Route #4; backup bus operated on time." }
+    ]
+  },
+  {
+    "id": "GRV-2026-105",
+    "title": "Damaged fume hood and faulty ventilation in Chemistry Lab 2",
+    "description": "The exhaust blower in organic synthesis Lab 204 produces a grinding noise and fails to pull fumes out during esterification experiments. Strong chemical odor lingers inside.",
+    "category": "Lab",
+    "status": "In Review",
+    "priority": "Critical",
+    "sentiment": "Negative",
+    "sentimentScore": 0.15,
+    "date": "2026-10-24",
+    "isAnonymous": false,
+    "submittedBy": "Pooja Hegde",
+    "department": "Chemical Engg - 4th Year",
+    "location": "Science Block, Lab 204",
+    "assignedDept": "Laboratory Safety & Equipment Wing",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-24 04:10 PM", "note": "AI identified hazardous chemical environment keyword match." },
+      { "status": "In Review", "date": "2026-10-25 09:00 AM", "note": "Lab temporarily sealed for volatile experiments. Technician dispatched." }
+    ]
+  },
+  {
+    "id": "GRV-2026-106",
+    "title": "Wi-Fi dead zone on Central Library 2nd Floor reading section",
+    "description": "Signal drops completely near reference racks 12 to 24. Students cannot access IEEE Xplore and digital journal databases while studying for semester projects.",
+    "category": "Library",
+    "status": "Submitted",
+    "priority": "Medium",
+    "sentiment": "Neutral",
+    "sentimentScore": 0.52,
+    "date": "2026-10-25",
+    "isAnonymous": true,
+    "submittedBy": "Anonymous Student",
+    "department": "Information Technology",
+    "location": "Central Library Level 2",
+    "assignedDept": "IT Infrastructure & Networking Cell",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-25 11:45 AM", "note": "Auto-assigned to IT network operations for access point signal survey." }
+    ]
+  },
+  {
+    "id": "GRV-2026-107",
+    "title": "Broken elevator button panel and entrapment risk in Girls Hostel 3",
+    "description": "The 2nd floor door sensor on Elevator B jams halfway. Yesterday evening the cabin jerked between floors for nearly 10 minutes before releasing.",
+    "category": "Hostel",
+    "status": "In Review",
+    "priority": "Critical",
+    "sentiment": "Negative",
+    "sentimentScore": 0.12,
+    "date": "2026-10-23",
+    "isAnonymous": false,
+    "submittedBy": "Divya Nair",
+    "department": "Civil Engg - 2nd Year",
+    "location": "Girls Hostel 3, Lift B",
+    "assignedDept": "Campus Mechanical & Lift Safety",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-23 08:20 PM", "note": "Critical urgency assigned by AI safety detection." },
+      { "status": "In Review", "date": "2026-10-24 08:30 AM", "note": "Lift B turned off for public safety. Otis engineers contracted for sensor replacement." }
+    ]
+  },
+  {
+    "id": "GRV-2026-108",
+    "title": "Praise for extended library hours during mid-term examination week",
+    "description": "The 24/7 opening of the air-conditioned study hall helped our research groups tremendously. Requesting this to be made standard during finals as well.",
+    "category": "Library",
+    "status": "Resolved",
+    "priority": "Low",
+    "sentiment": "Positive",
+    "sentimentScore": 0.88,
+    "date": "2026-10-10",
+    "isAnonymous": false,
+    "submittedBy": "Karthik Verma",
+    "department": "Electrical Engg",
+    "location": "Central Library",
+    "assignedDept": "Chief Librarian Administration",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-10 10:00 AM", "note": "Constructive feedback and operational extension proposal recorded." },
+      { "status": "In Review", "date": "2026-10-12 02:00 PM", "note": "Discussed in Dean Academics operational meeting." },
+      { "status": "Resolved", "date": "2026-10-16 11:00 AM", "note": "Formal circular issued making 24-hr study hall access standard for all exam periods." }
+    ]
+  },
+  {
+    "id": "GRV-2026-109",
+    "title": "Insufficient streetlights along East Campus sports complex walkway",
+    "description": "The path connecting girls hostel block to the sports arena is pitch dark after 7 PM due to three burnt out solar streetlamps, creating serious safety concerns.",
+    "category": "Infrastructure",
+    "status": "Submitted",
+    "priority": "High",
+    "sentiment": "Negative",
+    "sentimentScore": 0.25,
+    "date": "2026-10-26",
+    "isAnonymous": true,
+    "submittedBy": "Anonymous Student",
+    "department": "Architecture",
+    "location": "East Campus Pathway",
+    "assignedDept": "Electrical Maintenance Division",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-26 07:30 AM", "note": "High priority incident created. Security guards alerted for evening patrols." }
+    ]
+  },
+  {
+    "id": "GRV-2026-110",
+    "title": "Broken microscopes in Microbiology UG Laboratory 101",
+    "description": "Four out of ten binocular microscopes have scratched objective lenses (40x and 100x oil immersion), preventing proper identification of gram-stained specimens.",
+    "category": "Lab",
+    "status": "Resolved",
+    "priority": "Medium",
+    "sentiment": "Neutral",
+    "sentimentScore": 0.40,
+    "date": "2026-10-08",
+    "isAnonymous": false,
+    "submittedBy": "Meera Iyer",
+    "department": "Life Sciences - 3rd Year",
+    "location": "Bio Sciences Lab 101",
+    "assignedDept": "Laboratory Equipment Management",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-08 03:15 PM", "note": "Requisition forwarded to Head of Biological Sciences." },
+      { "status": "In Review", "date": "2026-10-10 11:00 AM", "note": "Optical servicing vendor inspected damaged lenses." },
+      { "status": "Resolved", "date": "2026-10-14 02:30 PM", "note": "Lenses replaced and calibrated with optical alignment certificate." }
+    ]
+  },
+  {
+    "id": "GRV-2026-111",
+    "title": "Hostel 7 washing machines malfunctioning and tearing clothes",
+    "description": "Machine #2 and #3 in the laundry room have rusty drum seals that snagged t-shirts and bedsheets. Coin dispenser frequently eats student tokens without starting.",
+    "category": "Hostel",
+    "status": "In Review",
+    "priority": "Medium",
+    "sentiment": "Negative",
+    "sentimentScore": 0.28,
+    "date": "2026-10-19",
+    "isAnonymous": false,
+    "submittedBy": "Siddharth Das",
+    "department": "Management Studies",
+    "location": "Hostel 7 Ground Floor Laundry",
+    "assignedDept": "Hostel Facilities & Vendor Cell",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-19 05:20 PM", "note": "Grievance filed with photographic token evidence." },
+      { "status": "In Review", "date": "2026-10-21 09:40 AM", "note": "Laundry vendor summoned to service drum linings and digital tokens." }
+    ]
+  },
+  {
+    "id": "GRV-2026-112",
+    "title": "Unsanitary restrooms on 4th floor Lecture Hall Complex (LHC)",
+    "description": "Taps are continuously dripping and flush valves are stuck. Stagnant water on tiles poses slip hazard and unbearable odor permeates classrooms 401 and 402.",
+    "category": "Sanitation",
+    "status": "Submitted",
+    "priority": "High",
+    "sentiment": "Negative",
+    "sentimentScore": 0.19,
+    "date": "2026-10-24",
+    "isAnonymous": false,
+    "submittedBy": "Ananya Roy",
+    "department": "Physics Dept",
+    "location": "LHC 4th Floor East Wing",
+    "assignedDept": "Sanitation & Hygiene Department",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-24 01:25 PM", "note": "Complaint flagged under public health & campus sanitation standard." }
+    ]
+  },
+  {
+    "id": "GRV-2026-113",
+    "title": "Suggestion for vegetarian healthy breakfast options in South Canteen",
+    "description": "Current options are heavy on oily fried food. Can we introduce fresh fruits, boiled sprouts, oatmeal or multigrain sandwiches for athletes and fitness enthusiasts?",
+    "category": "Mess",
+    "status": "Resolved",
+    "priority": "Low",
+    "sentiment": "Positive",
+    "sentimentScore": 0.75,
+    "date": "2026-10-05",
+    "isAnonymous": false,
+    "submittedBy": "Tanvi Joshi",
+    "department": "Sports Science",
+    "location": "South Campus Canteen",
+    "assignedDept": "Canteen Oversight Committee",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-05 08:45 AM", "note": "Constructive dietary recommendation received." },
+      { "status": "In Review", "date": "2026-10-07 03:00 PM", "note": "Dietitian reviewed proposal and added sprout bowls to morning counter." },
+      { "status": "Resolved", "date": "2026-10-11 08:00 AM", "note": "Healthy breakfast corner inaugurated with student discount." }
+    ]
+  },
+  {
+    "id": "GRV-2026-114",
+    "title": "Severe clash in Elective Subject final exam schedule",
+    "description": "Artificial Intelligence (CS-412) and Cloud Computing (CS-418) are both slated for November 18 from 10 AM to 1 PM. Around 40 dual-elective students are affected.",
+    "category": "Academics",
+    "status": "In Review",
+    "priority": "Critical",
+    "sentiment": "Negative",
+    "sentimentScore": 0.20,
+    "date": "2026-10-25",
+    "isAnonymous": false,
+    "submittedBy": "Rohan Deshmukh",
+    "department": "Computer Science - Final Year",
+    "location": "Examination Portal",
+    "assignedDept": "Dean of Academic Affairs",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-25 10:10 AM", "note": "Exam scheduling conflict logged by class representative." },
+      { "status": "In Review", "date": "2026-10-25 04:30 PM", "note": "Academic committee drafting revised timetable for slot CS-418." }
+    ]
+  },
+  {
+    "id": "GRV-2026-115",
+    "title": "Non-functional air conditioning in VLSI Design Lab",
+    "description": "Workstations overheat and shut down after 20 minutes of CAD tool simulation. Ambient temperature inside Lab 301 is reaching 36°C, making afternoon sessions unbearable.",
+    "category": "Lab",
+    "status": "Submitted",
+    "priority": "High",
+    "sentiment": "Negative",
+    "sentimentScore": 0.27,
+    "date": "2026-10-26",
+    "isAnonymous": true,
+    "submittedBy": "Anonymous Student",
+    "department": "ECE",
+    "location": "VLSI Lab 301, Tech Tower",
+    "assignedDept": "HVAC & Electrical Maintenance",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-26 09:40 AM", "note": "HVAC technician notification queued automatically." }
+    ]
+  },
+  {
+    "id": "GRV-2026-116",
+    "title": "Overcrowding and reckless speeding on North Ring road by supply trucks",
+    "description": "Contractor trucks enter campus via Gate 2 at excessive speeds during class changeover hours (11:50 AM to 12:10 PM). Multiple near-misses with pedestrians and cyclists.",
+    "category": "Transport",
+    "status": "In Review",
+    "priority": "Critical",
+    "sentiment": "Negative",
+    "sentimentScore": 0.14,
+    "date": "2026-10-20",
+    "isAnonymous": false,
+    "submittedBy": "Neha Kulkarni",
+    "department": "Civil Engg",
+    "location": "North Ring Road / Academic Quad",
+    "assignedDept": "Campus Security & Traffic Wing",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-20 01:10 PM", "note": "Critical pedestrian hazard flagged." },
+      { "status": "In Review", "date": "2026-10-21 11:00 AM", "note": "Security speed bumps installed; heavy vehicle curfew introduced during peak bell hours." }
+    ]
+  },
+  {
+    "id": "GRV-2026-117",
+    "title": "Request for accessible ramp and automatic doors at Main Auditorium",
+    "description": "Wheelchair-bound students currently require manual assistance up four steep concrete steps to enter the auditorium for convocation and guest seminars.",
+    "category": "Infrastructure",
+    "status": "Resolved",
+    "priority": "High",
+    "sentiment": "Neutral",
+    "sentimentScore": 0.50,
+    "date": "2026-09-28",
+    "isAnonymous": false,
+    "submittedBy": "Pranav Patel",
+    "department": "Humanities & Social Sciences",
+    "location": "Central Auditorium Entrance",
+    "assignedDept": "Campus Infrastructure & Accessibility Cell",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-09-28 10:00 AM", "note": "Accessibility audit request filed." },
+      { "status": "In Review", "date": "2026-10-02 02:30 PM", "note": "Civil engineering team measured slope requirements for ADA compliance." },
+      { "status": "Resolved", "date": "2026-10-15 04:00 PM", "note": "Standard gradient concrete ramp with stainless handrails and tactile paving completed." }
+    ]
+  },
+  {
+    "id": "GRV-2026-118",
+    "title": "Delays in refund of caution deposit for graduated M.Tech cohort",
+    "description": "No dues clearance was completed 45 days ago, but the accounts section has not disbursed the caution deposit refund to student bank accounts.",
+    "category": "Academics",
+    "status": "Resolved",
+    "priority": "Medium",
+    "sentiment": "Neutral",
+    "sentimentScore": 0.38,
+    "date": "2026-10-03",
+    "isAnonymous": false,
+    "submittedBy": "Bhavna Mishra",
+    "department": "Postgraduate Studies (M.Tech)",
+    "location": "Finance & Accounts Section",
+    "assignedDept": "Finance & Accounts Office",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-03 02:00 PM", "note": "Disbursement query filed with batch clearance receipt." },
+      { "status": "In Review", "date": "2026-10-06 11:30 AM", "note": "Bank NEFT processing initiated for 84 student accounts." },
+      { "status": "Resolved", "date": "2026-10-09 05:00 PM", "note": "All refunds credited; transaction UTR numbers sent via SMS/portal." }
+    ]
+  },
+  {
+    "id": "GRV-2026-119",
+    "title": "Cockroach infestation spotted in Mess 3 vegetable cold store",
+    "description": "During kitchen walkthrough for student mess audit, multiple roaches were seen around potato sacks and dairy shelves. Immediate pest control required.",
+    "category": "Mess",
+    "status": "Resolved",
+    "priority": "Critical",
+    "sentiment": "Negative",
+    "sentimentScore": 0.10,
+    "date": "2026-10-01",
+    "isAnonymous": false,
+    "submittedBy": "Shubham Agarwal",
+    "department": "Mess Committee Representative",
+    "location": "Hostel 3 Mess Kitchen & Storage",
+    "assignedDept": "Sanitation & Mess Oversight",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-10-01 07:15 PM", "note": "Emergency health advisory raised." },
+      { "status": "In Review", "date": "2026-10-02 08:00 AM", "note": "Mess kitchen temporarily closed; deep sanitization & fumigation executed." },
+      { "status": "Resolved", "date": "2026-10-04 06:00 PM", "note": "Health clearance certificate obtained; food-grade airtight containers installed." }
+    ]
+  },
+  {
+    "id": "GRV-2026-120",
+    "title": "Badminton court wooden flooring warped and leaking net tension",
+    "description": "The indoor sports court floor planks near the baseline have buckled due to humidity. Two players tripped this weekend during inter-hostel trials.",
+    "category": "Hostel",
+    "status": "Resolved",
+    "priority": "Low",
+    "sentiment": "Neutral",
+    "sentimentScore": 0.48,
+    "date": "2026-09-29",
+    "isAnonymous": true,
+    "submittedBy": "Anonymous Student",
+    "department": "Mechanical Engg",
+    "location": "Indoor Gymnasium Court 2",
+    "assignedDept": "Physical Education & Sports Facilities",
+    "timeline": [
+      { "status": "Submitted", "date": "2026-09-29 06:00 PM", "note": "Sports facility hazard notification." },
+      { "status": "In Review", "date": "2026-10-01 10:00 AM", "note": "Specialist wooden floor restoration agency contracted." },
+      { "status": "Resolved", "date": "2026-10-07 04:30 PM", "note": "Sanding, re-planking and anti-slip polyurethane coating finished." }
+    ]
+  }
+]
